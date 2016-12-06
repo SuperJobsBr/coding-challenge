@@ -20,9 +20,8 @@ You should follow the following screen design:
 
 ### Requirements ⚒
 
-There is only one techical requirement when building this app.
-
-* It must be done in Ruby on Rails
+* It must be done w/ Ruby on Rails
+* It must follow the above design (improvements are accepted though)
 
 Other than that you are free to use any tools you like, we encourage you to
 built it with what you are most confortable with.
