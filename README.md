@@ -5,38 +5,20 @@ for the typical full stack Rails developer.
 
 ### Briefing 📜
 
-You are supposed to build a website which shows random "fortune" messages, just
-like the one you find in fortune cookies. Note that our fortune messages also
-include a title.
-
-Each fortune message may receive anonymous comments, the comment must be at
-least 10 character long and at most 255 characters long.
-
-We don't believe you will be needing any layouts (.psd) to complete this test.
-
-You should follow the following screen design:
-
-![](resources/screen.png)
+Your are supposed to build a litle blog that should have the fallowing features:
+- An user can create an account
+- An user can create a blog post with a title and description
+- An user can delete and update a blog post
+- The blog post can receive comments of other users
 
 ### Requirements ⚒
 
-* It must be done w/ Ruby on Rails
+* It must be done with Ruby on Rails
 * It must follow the above design (improvements are accepted though)
+* The layout must be responsive
+* It must have a good UX
+* It must have a good test coverage
 
 Other than that you are free to use any tools you like, we encourage you to
 built it with what you are most confortable with.
-
-### Why the hell is this test so simple? 🙈 
-
-We believe this test is just like making pizza, pizza is simple, it is just
-water, flour, salt and yeast; with some tomato sauce and cheese. This is why
-every single ingredient is so important, and makes such a huge difference on
-the end result.
-
-### Demo 🐮
-
-We have already done this coding challenge ourselves, this video demonstrates
-how the website should work.
-
-[Video](resources/demo.mp4)
 
