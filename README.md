@@ -13,8 +13,7 @@ Your are supposed to build a litle blog that should have the fallowing features:
 
 ### Requirements ⚒
 
-* It must be done with Ruby on Rails
-* It must follow the above design (improvements are accepted though)
+* It must be done with the last stable version of Ruby on Rails
 * The layout must be responsive
 * It must have a good UX
 * It must have a good test coverage
